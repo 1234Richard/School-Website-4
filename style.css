@@ -1,0 +1,48 @@
+body {
+    color: cornflowerblue;
+    text-align: center;
+        
+}
+html {
+    scroll-behavior: smooth;
+}
+#White-hat-jr {
+    height: 400px;
+}
+#Schoolname  {
+    background-color: bisque
+}
+#Principle {
+    height: 300;
+}    
+#CarouselImg {
+   width: 100%;
+      
+}
+.School_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.School_head i {
+    float: right;
+}
+.what_new_li {
+    margin-top: 13px;
+    border-radius: 90px;
+   
+}
+.what_new_li h4{
+    border-bottom: 1px solid green;
+    padding: 8px;
+}
+.what_new_li img {
+    border-radius: 25px;
+}
+.what_new_li p {
+    margin-top: 10px;
+}
+
+
+
